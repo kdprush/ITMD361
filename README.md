@@ -1,2 +1,2 @@
-# ITMD361
-ITMD 361 with Dr. Krieglstein
+# ITMD 361: Lab-1
+Lab 1 assignment.
