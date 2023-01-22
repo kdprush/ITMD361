@@ -1,2 +1,2 @@
-# ITMD 361: Lab-1
+# ITMD 361: lab1
 Lab 1 assignment.
